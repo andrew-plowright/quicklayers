@@ -1,0 +1,25 @@
+[general]
+name=Quick Layers
+about=Hide/unhide map layers using keyboard shortcuts
+category=None
+hasProcessingProvider=no
+description=Hide/unhide map layers using keyboard shortcuts
+icon=resources/images/high_voltage.png
+tags=layers
+
+# credits and contact
+author=Andrew PLOWRIGHT
+email=andrew.plowright@nrcan-rncan.gc.ca
+homepage=https://github.com/andrew-plowright/quicklayers
+repository=https://github.com/andrew-plowright/quicklayers
+tracker=https://github.com/andrew-plowright/quicklayers/issues
+
+# experimental flag
+deprecated=False
+experimental=True
+qgisMinimumVersion=3.22
+qgisMaximumVersion=3.99
+
+# versionnement
+version=0.1.0
+changelog=

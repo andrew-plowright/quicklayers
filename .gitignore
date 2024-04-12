@@ -1,0 +1,6 @@
+*.bak
+*.pyc
+.idea
+.idea/*
+/handy.md
+/dev/
